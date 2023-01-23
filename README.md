@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sunilsk97)
 
-- 💬 Ask me about **Machine Learning, Deep Learning, NLP, Data Analytics, Data Visualization**
+- 💬 Ask me about **Machine Learning, Deep Learning, NLP, Data Analytics, Data Visualization, Data Preprocessing**
 
 - 📫 How to reach me **kshirsagarsunil96@gmail.com.com**
 
